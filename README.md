@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hi! I’m Ahmed Soliman, a passionate AI and machine learning enthusiast with experience in Python, deep learning, and automation projects. I love solving real-world problems using innovative tech solutions and constantly improving my skills.<br><br>🚀 Currently Working On: AI tools & automation bots (Telegram, ML models).<br><br>🤝 Looking to Collaborate On: AI, ML, automation & software projects.<br><br>🆘 Looking for Help With: ML optimization & new frameworks.<br>📚 Currently Learning: Continual learning, reinforcement learning, advanced deep learning.<br><br>💬 Ask Me About: Python, AI models, automation, project planning, data analysis.
+Hi! I’m Ahmed Soliman, a passionate AI and machine learning enthusiast with experience in Python, deep learning, and automation projects. I love solving real-world problems using innovative tech solutions and constantly improving my skills.<br><br>🚀 Currently Working On: AI tools & automation bots (Telegram, ML models).<br><br>🤝 Looking to Collaborate On: AI, ML, automation & software projects.<br><br>🆘 Looking for Help With: ML optimization & new frameworks.<br><br>📚 Currently Learning: Continual learning, reinforcement learning, advanced deep learning.<br><br>💬 Ask Me About: Python, AI models, automation, project planning, data analysis.
 
 
 ## 🌐 Socials:
